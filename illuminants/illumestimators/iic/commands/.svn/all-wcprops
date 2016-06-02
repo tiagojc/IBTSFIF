@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands
+END
+config_iebv.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/config_iebv.h
+END
+command_test_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_test_cache.cpp
+END
+command_test_iebv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_test_iebv.cpp
+END
+command_iebv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_iebv.cpp
+END
+command_test_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_test_cache.h
+END
+command_test_iebv.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_test_iebv.h
+END
+command_iebv2.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/command_iebv2.h
+END
+config_iebv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/config_iebv.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/commands/CMakeLists.txt
+END

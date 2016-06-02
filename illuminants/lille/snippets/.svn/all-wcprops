@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets
+END
+super_sharp_premult_and_normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/super_sharp_premult_and_normalize.m
+END
+create_pre_sharpened_images.m
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/create_pre_sharpened_images.m
+END
+post_mult_and_normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/post_mult_and_normalize.m
+END
+retinex_jobson.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/retinex_jobson.m
+END
+create_super_sharp_pre_images.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/create_super_sharp_pre_images.m
+END
+pre_mult_and_normalize.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/pre_mult_and_normalize.m
+END
+call_retinex_mccann99.m
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/call_retinex_mccann99.m
+END
+ComputeLayers.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/ComputeLayers.m
+END
+test_sharpening.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/test_sharpening.m
+END
+ImageDownResolution.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/ImageDownResolution.m
+END
+retinex_mccann99.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/retinex_mccann99.m
+END
+CompareWithNeighbor.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/CompareWithNeighbor.m
+END
+create_sharpened_images.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/create_sharpened_images.m
+END
+call_retinex_jobson.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/snippets/call_retinex_jobson.m
+END

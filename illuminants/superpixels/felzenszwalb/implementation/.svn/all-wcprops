@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation
+END
+pnmfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/pnmfile.h
+END
+convolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/convolve.h
+END
+imconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/imconv.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/misc.h
+END
+disjoint-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/disjoint-set.h
+END
+segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/segment.cpp
+END
+segment-graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/segment-graph.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/COPYING
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/image.h
+END
+segment-image.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/segment-image.h
+END
+imutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/imutil.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/filter.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/felzenszwalb/implementation/README
+END

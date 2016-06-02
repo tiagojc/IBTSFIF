@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval
+END
+plotter.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/plotter.h
+END
+iic_funt_eval_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/iic_funt_eval_config.h
+END
+command_iic_funt_eval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/command_iic_funt_eval.cpp
+END
+plotter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/plotter.cpp
+END
+command_iic_funt_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/command_iic_funt_eval.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/CMakeLists.txt
+END
+iic_funt_eval_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/iic_funt_eval_config.cpp
+END

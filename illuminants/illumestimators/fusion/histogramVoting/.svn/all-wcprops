@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/fusion/histogramVoting
+END
+config_histogram_voting_fusion.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/fusion/histogramVoting/config_histogram_voting_fusion.h
+END
+histogramVotingFusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/fusion/histogramVoting/histogramVotingFusion.cpp
+END
+config_histogram_voting_fusion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/fusion/histogramVoting/config_histogram_voting_fusion.cpp
+END
+histogramVotingFusion.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/fusion/histogramVoting/histogramVotingFusion.h
+END

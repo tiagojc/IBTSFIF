@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/error.h
+END
+error2.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/error2.h
+END
+evaluationreport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/evaluationreport.cpp
+END
+crossvalidation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/crossvalidation.cpp
+END
+evaluationreport.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/evaluationreport.h
+END
+crossvalidation.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/crossvalidation.h
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/error.cpp
+END
+error2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/evaluation/error2.cpp
+END

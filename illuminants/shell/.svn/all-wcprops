@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell
+END
+modules.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell/modules.h.in
+END
+command.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell/command.h
+END
+main.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell/main.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell/CMakeLists.txt
+END
+modules.cpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/shell/modules.cpp.in
+END

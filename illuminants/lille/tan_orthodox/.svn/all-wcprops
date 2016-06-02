@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox
+END
+pnmfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/pnmfile.h
+END
+zGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/zGlobal.h
+END
+zLightChroma.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/zLightChroma.h
+END
+tan_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/tan_misc.h
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/image.h
+END
+orthodox_tan_adapter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/orthodox_tan_adapter.cpp
+END
+zLightChroma.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/zLightChroma.cxx
+END
+orthodox_tan_adapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/orthodox_tan_adapter.h
+END
+zImageMagick.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/tan_orthodox/zImageMagick.h
+END

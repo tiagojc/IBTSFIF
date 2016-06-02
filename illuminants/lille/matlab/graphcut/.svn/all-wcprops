@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut
+END
+energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/energy.h
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/block.h
+END
+GCoptimization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GCoptimization.cpp
+END
+graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/graph.cpp
+END
+GC_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GC_README.txt
+END
+GCoptimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GCoptimization.h
+END
+GraphCutConstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCutConstr.cpp
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/graph.h
+END
+compile_gc.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/compile_gc.m
+END
+bagon_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/bagon_assert.h
+END
+LinkedBlockList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/LinkedBlockList.cpp
+END
+GraphCut.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCut.cpp
+END
+maxflow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/maxflow.cpp
+END
+gc_example.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/gc_example.m
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/LICENSE.TXT
+END
+VERSION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/VERSION.txt
+END
+LinkedBlockList.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/LinkedBlockList.h
+END
+GraphCut.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCut.h
+END
+GraphCutConstrSparse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCutConstrSparse.cpp
+END
+GraphCutMex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCutMex.cpp
+END
+GraphCut.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCut.m
+END
+GraphCut3dConstr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/graphcut/GraphCut3dConstr.cpp
+END

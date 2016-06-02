@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/baseline
+END
+nothingestimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/baseline/nothingestimator.cpp
+END
+nothingestimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/baseline/nothingestimator.h
+END
+meanestimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/baseline/meanestimator.cpp
+END
+meanestimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/baseline/meanestimator.h
+END

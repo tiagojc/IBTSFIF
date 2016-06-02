@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage
+END
+command_cache_adm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/command_cache_adm.cpp
+END
+vole_cache_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/vole_cache_config.h
+END
+vole_cache_item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/vole_cache_item.cpp
+END
+command_cache_adm.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/command_cache_adm.h
+END
+vole_cache_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/vole_cache_item.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/CMakeLists.txt
+END
+vole_cache_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/storage/vole_cache_config.cpp
+END

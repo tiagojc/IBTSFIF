@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab
+END
+run_mimorem.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/run_mimorem.m
+END
+makeSC_40labels.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/makeSC_40labels.m
+END
+LME_LOCAL_ADAPTATION.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/LME_LOCAL_ADAPTATION.m
+END
+demo_mimoremOnDS.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/demo_mimoremOnDS.m
+END
+supix2CL_minIntens.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/supix2CL_minIntens.m
+END
+makeDC_40labels_minIntens.m
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/makeDC_40labels_minIntens.m
+END
+kmeans2DChroma.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/kmeans2DChroma.m
+END
+visGraphCut_CandL.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/visGraphCut_CandL.m
+END
+makeSC_labelAngErr.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/makeSC_labelAngErr.m
+END
+showColors.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/showColors.m
+END
+angDistPixwise.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/angDistPixwise.m
+END
+findConnections2.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/findConnections2.m
+END
+loadSupix.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/loadSupix.m
+END
+computeDRMcost.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/computeDRMcost.m
+END
+solveMbMsPositive2.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/solveMbMsPositive2.m
+END
+robust.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/robust.m
+END
+loadIllum.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/matlab/loadIllum.m
+END

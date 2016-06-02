@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator
+END
+illuminantEstimationByVoting.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/illuminantEstimationByVoting.h
+END
+iebv_estimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iebv_estimator.h
+END
+tan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/tan.cpp
+END
+iic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iic.cpp
+END
+iebv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iebv.cpp
+END
+tan.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/tan.h
+END
+iic.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iic.h
+END
+iebv.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iebv.h
+END
+illuminantEstimationByVoting.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/illuminantEstimationByVoting.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/CMakeLists.txt
+END
+iebv_estimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/estimator/iebv_estimator.cpp
+END

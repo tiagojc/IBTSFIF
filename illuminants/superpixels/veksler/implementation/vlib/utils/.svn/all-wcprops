@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils
+END
+dilate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/dilate.cpp
+END
+pyramid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/pyramid.cpp
+END
+dt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/dt.cpp
+END
+canny.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/canny.cpp
+END
+smooth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/smooth.cpp
+END
+grad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/vlib/utils/grad.cpp
+END

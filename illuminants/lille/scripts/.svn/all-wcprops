@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts
+END
+commands_shida_gw.sh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_gw.sh
+END
+commands_shida_diffuse_forest_gt_100.sh
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_diffuse_forest_gt_100.sh
+END
+commands_shida_fused_diff_spec_gt_100.sh
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_fused_diff_spec_gt_100.sh
+END
+commands_shida_specular_iebv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_specular_iebv.sh
+END
+generate_random_forest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_random_forest.pl
+END
+generate_fuse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_fuse.pl
+END
+commands_shida_diffuse_boosting.sh
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_diffuse_boosting.sh
+END
+generate_gw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_gw.pl
+END
+generate_tan.pl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_tan.pl
+END
+commands_shida_diffuse_forest_gt_50.sh
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_diffuse_forest_gt_50.sh
+END
+generate_gw_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_gw_eval.pl
+END
+generate_boosting.pl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_boosting.pl
+END
+commands_shida_fused_diff_spec_gt_50.sh
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/commands_shida_fused_diff_spec_gt_50.sh
+END
+generate_iebv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_iebv.pl
+END
+generate_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_eval.pl
+END
+generate_single_shida.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/generate_single_shida.pl
+END

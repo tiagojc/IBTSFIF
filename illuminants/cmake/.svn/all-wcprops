@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake
+END
+VoleModuleMacros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleModuleMacros.cmake
+END
+VoleProcessOptionalDependencies.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleProcessOptionalDependencies.cmake
+END
+VoleFindExternalModules.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleFindExternalModules.cmake
+END
+FindLPSolve.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/FindLPSolve.cmake
+END
+VoleFindPackages.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleFindPackages.cmake
+END
+FindQhull.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/FindQhull.cmake
+END
+FindSLEPc.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/FindSLEPc.cmake
+END
+VoleCheckDependencies.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleCheckDependencies.cmake
+END
+VoleHelperMacros.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/VoleHelperMacros.cmake
+END
+FindPETSc.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/cmake/FindPETSc.cmake
+END

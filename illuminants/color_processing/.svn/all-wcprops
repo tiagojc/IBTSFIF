@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing
+END
+pixel_operations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing/pixel_operations.cpp
+END
+pixel_operations.txx
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing/pixel_operations.txx
+END
+pixel_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing/pixel_operations.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing/CMakeLists.txt
+END
+BuildSettings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/color_processing/BuildSettings.txt
+END

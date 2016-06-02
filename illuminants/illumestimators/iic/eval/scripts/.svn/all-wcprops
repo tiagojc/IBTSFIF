@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts
+END
+create_overview.pl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/create_overview.pl
+END
+eval_status.sh
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/eval_status.sh
+END
+combine_funt_ground_truth.pl
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/combine_funt_ground_truth.pl
+END
+create_barnard_filelist_and_ground_truth.pl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/create_barnard_filelist_and_ground_truth.pl
+END
+gen_config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/gen_config.pl
+END
+compute_average_error_no_ground_truth.pl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/compute_average_error_no_ground_truth.pl
+END
+compute_median_error.pl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/iic/eval/scripts/compute_median_error.pl
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo
+END
+generate_gw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_gw.pl
+END
+compute_gw_on_wrong_gt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/compute_gw_on_wrong_gt.sh
+END
+compute_specular_on_wrong_gt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/compute_specular_on_wrong_gt.sh
+END
+generate_fuse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_fuse.pl
+END
+generate_random_forest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_random_forest.pl
+END
+generate_boosting.pl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_boosting.pl
+END
+generate_gw_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_gw_eval.pl
+END
+generate_iebv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_iebv.pl
+END
+compute_boosting_on_wrong_gt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/compute_boosting_on_wrong_gt.sh
+END
+generate_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/theo/generate_eval.pl
+END

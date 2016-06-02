@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands
+END
+commandveksler.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandveksler.h
+END
+felzenszwalbconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/felzenszwalbconfig.h
+END
+vekslerconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/vekslerconfig.cpp
+END
+patchesconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/patchesconfig.h
+END
+commandfelzenszwalb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandfelzenszwalb.cpp
+END
+commandpatches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandpatches.cpp
+END
+vekslerconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/vekslerconfig.h
+END
+commandfelzenszwalb.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandfelzenszwalb.h
+END
+commandveksler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandveksler.cpp
+END
+commandpatches.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/commandpatches.h
+END
+felzenszwalbconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/felzenszwalbconfig.cpp
+END
+patchesconfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/commands/patchesconfig.cpp
+END

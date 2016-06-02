@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/config
+END
+config_iebv_avg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/config/config_iebv_avg.txt
+END
+config_iebv_lenient.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/config/config_iebv_lenient.txt
+END
+config_iebv_harsh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/config/config_iebv_harsh.txt
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation
+END
+energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/energy.h
+END
+instances.inc
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/instances.inc
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/block.h
+END
+graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/graph.cpp
+END
+superpixels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/superpixels.cpp
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/changes.txt
+END
+graph.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/graph.h
+END
+superpixels.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/superpixels.h
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/README.TXT
+END
+maxflow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/superpixels/veksler/implementation/maxflow.cpp
+END

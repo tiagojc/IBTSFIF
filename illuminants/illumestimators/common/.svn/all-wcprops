@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common
+END
+illuminant_estimator_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/illuminant_estimator_loader.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/statistics.h
+END
+mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/mask.h
+END
+derivative.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/derivative.cpp
+END
+derivative.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/derivative.h
+END
+linesegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/linesegment.cpp
+END
+convexpolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/convexpolygon.cpp
+END
+color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/color.cpp
+END
+linesegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/linesegment.h
+END
+convexpolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/convexpolygon.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/color.h
+END
+illuminant_estimator_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/illuminant_estimator_loader.cpp
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/statistics.cpp
+END
+mask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/mask.cpp
+END
+scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/scale.h
+END
+convexhull.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/computervision/!svn/ver/9359/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/illumestimators/common/convexhull.h
+END

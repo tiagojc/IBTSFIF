@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/barnard
+END
+generate_gw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/barnard/generate_gw.pl
+END
+generate_iebv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/barnard/generate_iebv.pl
+END
+create_barnard_eval_file_lists.pl
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/barnard/create_barnard_eval_file_lists.pl
+END

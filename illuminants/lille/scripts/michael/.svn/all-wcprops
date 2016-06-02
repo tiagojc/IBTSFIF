@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael
+END
+generate_gw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_gw.pl
+END
+generate_single.pl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_single.pl
+END
+generate_fuse.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_fuse.pl
+END
+generate_random_forest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_random_forest.pl
+END
+generate_boosting.pl
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_boosting.pl
+END
+generate_gw_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_gw_eval.pl
+END
+generate_iebv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_iebv.pl
+END
+generate_eval.pl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/computervision/!svn/ver/9333/code/forensics/skin_illum/machine-learning/new-illuminants-extraction/lille/scripts/michael/generate_eval.pl
+END
